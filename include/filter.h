@@ -7,9 +7,9 @@ namespace HID
 {
     namespace filter
     {
-	class And;
+	struct And;
 	class Not;
-	class Or;
+	struct Or;
 
 	class productID;
 	class usage;
